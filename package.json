@@ -1,0 +1,23 @@
+{
+  "name": "ashish-useless-npm-package",
+  "version": "1.0.0",
+  "description": "Just console logs anything",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashish-raina/useless-npm-package.git"
+  },
+  "keywords": [
+    "npm",
+    "package"
+  ],
+  "author": "Ashish Raina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashish-raina/useless-npm-package/issues"
+  },
+  "homepage": "https://github.com/ashish-raina/useless-npm-package#readme"
+}
